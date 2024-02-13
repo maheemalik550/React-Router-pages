@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "router-3e06a",
+    "dev": "your-dev-project-id",
+    "prod": "your-prod-project-id",
+    "dist": "router-3e06a"
+  },
+  "targets": {},
+  "etags": {}
+}
